@@ -1,2 +1,4 @@
 # Primeiro Site
- Primeiro repositoria de um Site versionado
+ Primeiro repositório de um Site versionado
+
+fiz essse repositorio durante uma aula!
